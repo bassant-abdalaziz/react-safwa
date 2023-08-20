@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-safwa/static/css/main.48fb5aa4.css",
+    "main.js": "/react-safwa/static/js/main.9218144a.js",
+    "static/js/787.69a65c44.chunk.js": "/react-safwa/static/js/787.69a65c44.chunk.js",
+    "static/media/home-curve.png": "/react-safwa/static/media/home-curve.c98dd2bc35833de7d39d.png",
+    "index.html": "/react-safwa/index.html",
+    "main.48fb5aa4.css.map": "/react-safwa/static/css/main.48fb5aa4.css.map",
+    "main.9218144a.js.map": "/react-safwa/static/js/main.9218144a.js.map",
+    "787.69a65c44.chunk.js.map": "/react-safwa/static/js/787.69a65c44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48fb5aa4.css",
+    "static/js/main.9218144a.js"
+  ]
+}
