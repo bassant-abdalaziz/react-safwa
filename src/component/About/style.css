@@ -1,0 +1,46 @@
+.about {
+    margin-top: var(--mTop);
+}
+
+.about .content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.about .content .about-information {
+    width: 49%;
+}
+.about .content .about-information  .head{
+    color: var(--primary-color);
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.about  .image {
+    width: 49%;
+    display: flex;
+    justify-content: center;
+}
+
+.about .content .about-information p {
+    line-height: 1.8;
+    color: var(--gray-color);
+    margin-top: 5px;
+}
+
+
+.about  .content .image img{
+    width:100%
+}
+
+
+
+@media (max-width:767px) {
+    .about .content{
+        flex-direction: column;
+        gap: 25px;
+    }
+    .about .content .about-information ,   .about .content .image{
+        width: 100%;
+    }
+}

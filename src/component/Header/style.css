@@ -1,0 +1,72 @@
+.home {
+    height: 80vh;
+    background: url('/public/images/home-curve.png');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    position: relative;
+}
+.home .content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: right;
+}
+
+.home .content .home-information h1{
+    font-size: 45px;
+    font-weight: bold;
+    color: var(--dark-color)
+}
+
+
+.home .content .home-information p {
+    font-size: 20px;
+    line-height: 1.5;
+    color: var(--gray-color);
+    margin: 20px 0 30px 0;
+}
+
+.home .btn {
+    background: var(--primary-color);
+    color: #fff;
+    font-size: 18px;
+    width: 120px;
+    border: 0;
+    padding: 15px;
+    border-radius: 10px;
+    transition: 0.3s all;
+}
+
+.home .btn:hover {
+    background: #fff;
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color)
+}
+
+
+.home .btn a {
+    color: white;
+    text-decoration: none;
+}
+.home .btn:hover  a{
+    color: var(--primary-color);
+}
+
+.home  .content .image img{
+    width:100%
+}
+
+
+@media (max-width:767px) {
+    .home{
+        height: 120vh;
+    }
+    .home .content{
+        flex-direction: column;
+        margin-top: 50px;
+    }
+  .home  .content .home-information h1{
+        font-size: 30px;
+    }
+}
