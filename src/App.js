@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+
 import Header from './component/Header/Header';
 import About from './component/About/About';
 import Services from './component/OurServices/Services';
@@ -8,15 +8,11 @@ import Footer from './component/Footer/Footer';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
-        <Routes>
-          <Route exact path="/react-safwa" element={<Header />} />
-        </Routes>
+        <Header/>
         <About/>
         <Services/>
         <Contact/>
         <Footer/>
-      </BrowserRouter>
     </div>
   );
 }

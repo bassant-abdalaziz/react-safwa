@@ -24,7 +24,7 @@ const Navbar = () => {
         </div>
 
         <ul className={`nav-links ${menuOpen ? 'open' : ''}`}>
-          <li><Link to="react-safwa" style={{color:'rgb(46, 46, 46)'}}>الرئيسية</Link></li>
+          <li><Link to="/" style={{color:'rgb(46, 46, 46)'}}>الرئيسية</Link></li>
           <li><Link to="about" spy={true} smooth={true}>من نحن</Link></li>
           <li><Link to="services" spy={true} smooth={true}>الخدمات</Link></li>
           <li><Link to="contact" spy={true} smooth={true}>تواصل معنا</Link></li>
