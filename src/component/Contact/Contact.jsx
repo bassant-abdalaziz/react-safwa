@@ -1,6 +1,7 @@
 import React from 'react'
 import './style.css';
 
+import contactImg from '../../assets/contact.png'
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {  faPhone } from '@fortawesome/free-solid-svg-icons'
@@ -29,7 +30,7 @@ const Contact= ()=> {
           </div>
 
           <div className='image'>
-            <img src='images/contact.png' alt="contact" />
+            <img src={contactImg} alt="contact" />
           </div>
         </div> 
     </div>

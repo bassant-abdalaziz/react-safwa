@@ -1,6 +1,7 @@
 import React from 'react'
 import './style.css';
 
+import aboutImg from '../../assets/about.png'
 
 const About= ()=> {
   return (
@@ -20,7 +21,7 @@ const About= ()=> {
           </div>
 
           <div className='image'>
-            <img src='images/about.png' alt="about" />
+            <img src={aboutImg} alt="about" />
           </div>
         </div> 
     </div>

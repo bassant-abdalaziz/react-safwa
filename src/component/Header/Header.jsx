@@ -1,6 +1,8 @@
 import React from 'react'
 import './style.css';
 
+import headerImg from '../../assets/student.png'
+
 import Navbar from '../Navbar/Navbar';
 const Header= ()=> {
   return (
@@ -15,7 +17,7 @@ const Header= ()=> {
           </div>
 
           <div className='image'>
-            <img src='images/student.png' alt="home" />
+            <img src={headerImg} alt="home" />
           </div>
         </div> 
     </div>
