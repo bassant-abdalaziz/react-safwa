@@ -9,7 +9,7 @@ const  Services =()=>
   const servicesDataList = serviceData.map(service=>{
     return(
       <div className='service' key={service.id}>
-        <img src={service.img} alt="img" />
+        <img src={service.img} alt={service.alt}/>
         <p>{service.title}</p>
       </div>
     )

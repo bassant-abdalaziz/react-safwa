@@ -29,7 +29,7 @@ const Contact= ()=> {
           </div>
 
           <div className='image'>
-            <img src='images/contact.png' alt="about" />
+            <img src='images/contact.png' alt="contact" />
           </div>
         </div> 
     </div>
