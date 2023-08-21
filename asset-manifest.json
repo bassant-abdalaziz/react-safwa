@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-safwa/static/css/main.48fb5aa4.css",
-    "main.js": "/react-safwa/static/js/main.9d0f93dc.js",
-    "static/js/787.69a65c44.chunk.js": "/react-safwa/static/js/787.69a65c44.chunk.js",
-    "static/media/home-curve.png": "/react-safwa/static/media/home-curve.c98dd2bc35833de7d39d.png",
-    "index.html": "/react-safwa/index.html",
-    "main.48fb5aa4.css.map": "/react-safwa/static/css/main.48fb5aa4.css.map",
-    "main.9d0f93dc.js.map": "/react-safwa/static/js/main.9d0f93dc.js.map",
-    "787.69a65c44.chunk.js.map": "/react-safwa/static/js/787.69a65c44.chunk.js.map"
+    "main.css": "/static/css/main.1c8fdd4b.css",
+    "main.js": "/static/js/main.83637129.js",
+    "static/js/787.69a65c44.chunk.js": "/static/js/787.69a65c44.chunk.js",
+    "static/media/home-curve.png": "/static/media/home-curve.c98dd2bc35833de7d39d.png",
+    "index.html": "/index.html",
+    "main.1c8fdd4b.css.map": "/static/css/main.1c8fdd4b.css.map",
+    "main.83637129.js.map": "/static/js/main.83637129.js.map",
+    "787.69a65c44.chunk.js.map": "/static/js/787.69a65c44.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48fb5aa4.css",
-    "static/js/main.9d0f93dc.js"
+    "static/css/main.1c8fdd4b.css",
+    "static/js/main.83637129.js"
   ]
 }
