@@ -3,7 +3,7 @@ const serviceData=[
     {
         "id" : 1,
         "alt":"img1",
-        "img": '/images/img-1.png',
+        "img": '../../public/images/img-1.png',
         "title": "خصم خاص للأخوين باسعار معقولة"
     },
     {
