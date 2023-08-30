@@ -4,11 +4,10 @@
     align-items: center;
 }
 
-.whatsapp .btn-whatsapp {
-    background: rgb(4, 224, 74);
+.whatsapp .btn {
     font-size: 18px;
-    padding: 10px 12px;
-    width: 110px;
+    padding:  13px 11px;
+    width: 150px;
     border: 0;
     border-radius: 8px;
 }
@@ -24,5 +23,5 @@
 
 @media (max-width: 550px) {
     .whatsapp .btn-whatsapp {
-        width:150px}
+        width:180px}
 }

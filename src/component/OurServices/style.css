@@ -35,12 +35,13 @@
 }
 .services .service img{
     width: 160px;
-    height: 110px;
+    height: 150px;
 }
 .services .service p{
     line-height: 1.8;
     color: var(--grey-color);
     width: 75%;
+    font-size: 18px;
 }
 
 @media (max-width: 992px) {

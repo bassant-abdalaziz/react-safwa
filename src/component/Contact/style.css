@@ -22,19 +22,6 @@
     align-items: center;
     gap:20px;
 }
-.contact-us .contact .phone{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap:10px;
-    color:white;
-    background-color: var(--primary-color);
-    font-size: 18px;
-    padding: 13px 14px;
-    width: 130px;
-    border-radius: 8px;
-
-}
 
 .contact-us .content  .image {
     width: 49%;
