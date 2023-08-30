@@ -5,6 +5,7 @@ import './style.css';
 import logoImg from '../../assets/logo.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
+import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 
 import Whatsapp from '../WhatsApp/Whatsapp';
 
@@ -28,7 +29,13 @@ const Navbar = () => {
           <li><Link to="about" spy={true} smooth={true}>من نحن</Link></li>
           <li><Link to="services" spy={true} smooth={true}>الخدمات</Link></li>
           <li><Link to="contact" spy={true} smooth={true}>تواصل معنا</Link></li>
-          <li>    <Whatsapp/></li>
+          <li>
+            <Whatsapp background="rgb(4, 224, 74)">
+                  <a target='-blank' href="https://wa.me/+966559287026">
+                  <FontAwesomeIcon icon={faWhatsapp} className='fa'/>
+                  بدأ المحادثة</a>
+            </Whatsapp>
+          </li>
         </ul>
 
         <div className={`hamburger ${menuOpen ? 'open' : ''}`} onClick={toggleMenu}>
