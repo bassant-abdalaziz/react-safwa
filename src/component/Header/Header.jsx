@@ -13,7 +13,7 @@ const Header= ()=> {
           <div className="home-information">
               <h1>تعلم بأكاديمية الصفوة بالمملكة</h1>
               <p>منصة توفر معلمين و معلمات في بيتكم و اونلاين</p>
-              <button className='btn'><a href="#contact" >تواصل معنا</a></button>
+              <a className='btn' href="#contact" >تواصل معنا</a>
           </div>
 
           <div className='image'>
