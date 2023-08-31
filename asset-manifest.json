@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-safwa/static/css/main.465b28e3.css",
-    "main.js": "/react-safwa/static/js/main.0c46e1ca.js",
+    "main.js": "/react-safwa/static/js/main.6cb6a5e7.js",
     "static/js/787.69a65c44.chunk.js": "/react-safwa/static/js/787.69a65c44.chunk.js",
     "static/media/contact.png": "/react-safwa/static/media/contact.49ed3ffdf3e894596bbc.png",
     "static/media/about.png": "/react-safwa/static/media/about.f6f940e3dc9d3ee4043e.png",
     "static/media/img-3.png": "/react-safwa/static/media/img-3.56673744fbc1a3093ce5.png",
     "static/media/home-curve.png": "/react-safwa/static/media/home-curve.c98dd2bc35833de7d39d.png",
+    "static/media/quran.png": "/react-safwa/static/media/quran.d50b81313cf165ef308b.png",
     "static/media/img-4.png": "/react-safwa/static/media/img-4.cb7fa1aa4ba2446a67b4.png",
     "static/media/student.png": "/react-safwa/static/media/student.08c57f4ae4383425e5bb.png",
     "static/media/logo.png": "/react-safwa/static/media/logo.dcf7ea5a4674067c85a6.png",
-    "static/media/quran.jpg": "/react-safwa/static/media/quran.7a169e8dcc30c980af62.jpg",
     "index.html": "/react-safwa/index.html",
     "main.465b28e3.css.map": "/react-safwa/static/css/main.465b28e3.css.map",
-    "main.0c46e1ca.js.map": "/react-safwa/static/js/main.0c46e1ca.js.map",
+    "main.6cb6a5e7.js.map": "/react-safwa/static/js/main.6cb6a5e7.js.map",
     "787.69a65c44.chunk.js.map": "/react-safwa/static/js/787.69a65c44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.465b28e3.css",
-    "static/js/main.0c46e1ca.js"
+    "static/js/main.6cb6a5e7.js"
   ]
 }
