@@ -1,6 +1,6 @@
 
 import img1 from "../assets/img-4.png"
-import img2 from "../assets/quran.jpg"
+import img2 from "../assets/quran.png"
 import img3 from "../assets/img-3.png"
 
 const serviceData=[
