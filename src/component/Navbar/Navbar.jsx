@@ -38,7 +38,7 @@ const Navbar = () => {
           </li>
         </ul>
 
-        <div className={`hamburger ${menuOpen ? 'open' : ''}`} onClick={toggleMenu}>
+        <div className='hamburger' onClick={toggleMenu}>
           <FontAwesomeIcon icon={faBars} className='fa'/>
         </div>
       </div>

@@ -27,33 +27,25 @@
     margin: 20px 0 30px 0;
 }
 
-.home .btn {
+.home .link{
     background: var(--primary-color);
     color: #fff;
     font-size: 18px;
-    width: 120px;
     border: 0;
     padding: 15px 20px;
     border-radius: 10px;
     transition: 0.3s all;
     text-decoration: none;
     cursor: pointer;
+    width: 100%;
 }
 
-.home .btn:hover {
+.home .link:hover {
     background: #fff;
     color: var(--primary-color);
     border: 1px solid var(--primary-color)
 }
 
-
-.home .btn a {
-    color: white;
-    text-decoration: none;
-}
-.home .btn:hover  a{
-    color: var(--primary-color);
-}
 
 .home  .content .image img{
     width:100%

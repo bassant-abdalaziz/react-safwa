@@ -14,7 +14,7 @@ const Header= ()=> {
           <div className="home-information">
               <h1>تعلم بأكاديمية الصفوة بالمملكة</h1>
               <p>منصة توفر معلمين و معلمات في بيتكم و اونلاين</p>
-              <Link  to="contact" spy={true} smooth={true} className="btn">تواصل معنا</Link>
+              <Link  to="contact" spy={true} smooth={true} className="link">تواصل معنا</Link>
           </div>
 
           <div className='image'>
